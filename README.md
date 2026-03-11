@@ -1,4 +1,9 @@
-Use it like so:
+# What it will look like:
+
+<img width="350" height="860" alt="image" src="https://github.com/user-attachments/assets/20fde120-16f0-4b2c-9921-71abe6880e01" />
+
+
+# Usage:
 
 ```
 "custom/calendar": {
