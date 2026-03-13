@@ -14,3 +14,9 @@
     "signal": 8
 }
 ```
+
+Make it executable:
+
+```
+chmod +x calendar.sh
+```
